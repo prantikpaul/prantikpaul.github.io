@@ -534,11 +534,27 @@ img {
 }
 
 .skills__python {
-  width: 60%;
+  width: 95%;
 }
 
-.skills__tab {
+.skills__Django {
+  width: 90%;
+}
+
+.skills__Html {
+  width: 85%;
+}
+
+.skills__Css {
+  width: 80%;
+}
+
+.skills__Js {
   width: 70%;
+}
+
+.skills__RESTful {
+  width: 85%;
 }
 
 .skills__sql {
